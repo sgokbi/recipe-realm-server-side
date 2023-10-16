@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John Smith",
+    "picture": "chef_john_smith.jpg",
+    "experience": "15 years",
+    "number_of_recipes": 120,
+    "number_of_likes": 2500
+  },
+  {
+    "id": 2,
+    "name": "Chef Maria Rodriguez",
+    "picture": "chef_maria_rodriguez.jpg",
+    "experience": "12 years",
+    "number_of_recipes": 90,
+    "number_of_likes": 2000
+  },
+  {
+    "id": 3,
+    "name": "Chef David Chen",
+    "picture": "chef_david_chen.jpg",
+    "experience": "20 years",
+    "number_of_recipes": 180,
+    "number_of_likes": 3500
+  },
+  {
+    "id": 4,
+    "name": "Chef Emily White",
+    "picture": "chef_emily_white.jpg",
+    "experience": "10 years",
+    "number_of_recipes": 75,
+    "number_of_likes": 1800
+  },
+  {
+    "id": 5,
+    "name": "Chef Michael Johnson",
+    "picture": "chef_michael_johnson.jpg",
+    "experience": "18 years",
+    "number_of_recipes": 150,
+    "number_of_likes": 3200
+  },
+  {
+    "id": 6,
+    "name": "Chef Sarah Davis",
+    "picture": "chef_sarah_davis.jpg",
+    "experience": "14 years",
+    "number_of_recipes": 105,
+    "number_of_likes": 2300
+  }
+]
