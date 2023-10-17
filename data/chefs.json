@@ -1,50 +1,307 @@
 [
   {
-    "id": 1,
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "name": "Chef John Smith",
     "picture": "chef_john_smith.jpg",
     "experience": "15 years",
     "number_of_recipes": 120,
-    "number_of_likes": 2500
+    "number_of_likes": 2500,
+    "bio": "Chef John Smith is a seasoned culinary expert known for his passion for creating innovative dishes with a touch of traditional flavors. With over 15 years of experience, he has delighted the palates of many food enthusiasts around the world.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "2 lbs boneless chicken",
+          "1 onion, finely chopped",
+          "3 cloves garlic, minced",
+          "2 tablespoons curry powder",
+          "1 can coconut milk",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Sauté onions and garlic. 2. Add chicken and brown. 3. Stir in curry powder, coconut milk, salt, and pepper. 4. Simmer until the chicken is tender. Serve hot with rice.",
+        "rating": 4.8
+      },
+      {
+        "name": "Mango Salsa",
+        "ingredients": [
+          "2 ripe mangoes, diced",
+          "1 red bell pepper, finely chopped",
+          "1/4 cup red onion, minced",
+          "1/4 cup fresh cilantro, chopped",
+          "Juice of 1 lime",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Combine all ingredients in a bowl. 2. Mix well and refrigerate for 30 minutes before serving. Great as a topping for grilled chicken or fish.",
+        "rating": 4.6
+      },
+      {
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+          "4 oz semi-sweet chocolate",
+          "1/2 cup unsalted butter",
+          "1 cup powdered sugar",
+          "2 eggs",
+          "2 egg yolks",
+          "1/4 cup all-purpose flour"
+        ],
+        "cooking_method": "1. Melt chocolate and butter. 2. Stir in sugar. 3. Whisk in eggs and yolks. 4. Stir in flour. 5. Pour batter into greased ramekins. 6. Bake at 425°F for 12-14 minutes. Serve warm.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 2,
+    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "name": "Chef Maria Rodriguez",
     "picture": "chef_maria_rodriguez.jpg",
     "experience": "12 years",
     "number_of_recipes": 90,
-    "number_of_likes": 2000
+    "number_of_likes": 2000,
+    "bio": "Chef Maria Rodriguez is a culinary artist whose culinary journey began at a young age. Her recipes reflect her love for blending international cuisines and her dedication to mastering the art of cooking.",
+    "recipes": [
+      {
+        "name": "Pasta Carbonara",
+        "ingredients": [
+          "8 oz spaghetti",
+          "2 eggs",
+          "1 cup grated Parmesan cheese",
+          "4 slices of bacon, chopped",
+          "2 cloves garlic, minced",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. Cook pasta. 2. Whisk eggs and mix with cheese, salt, and pepper. 3. Sauté bacon and garlic. 4. Toss cooked pasta with egg mixture. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "name": "Taco Salad",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 packet taco seasoning",
+          "1 can kidney beans, drained",
+          "1 cup diced tomatoes",
+          "1/2 cup shredded cheddar cheese",
+          "Lettuce, sour cream, and salsa for serving"
+        ],
+        "cooking_method": "1. Brown beef and add taco seasoning. 2. Mix in kidney beans and tomatoes. 3. Assemble salad with lettuce, meat mixture, cheese, sour cream, and salsa.",
+        "rating": 4.5
+      },
+      {
+        "name": "Lemon Tart",
+        "ingredients": [
+          "1 9-inch pie crust",
+          "4 large eggs",
+          "1 cup granulated sugar",
+          "1/2 cup fresh lemon juice",
+          "Zest of 2 lemons",
+          "2 tablespoons cornstarch"
+        ],
+        "cooking_method": "1. Prebake pie crust. 2. Whisk eggs, sugar, lemon juice, zest, and cornstarch. 3. Pour into crust. 4. Bake at 350°F for 25-30 minutes. Chill before serving.",
+        "rating": 4.8
+      }
+    ]
   },
   {
-    "id": 3,
+    "id": "f69a695f037cd9484cecaea37ca71011",
     "name": "Chef David Chen",
     "picture": "chef_david_chen.jpg",
     "experience": "20 years",
     "number_of_recipes": 180,
-    "number_of_likes": 3500
+    "number_of_likes": 3500,
+    "bio": "Chef David Chen, with two decades of experience, is a maestro of traditional and modern Asian cuisine. His mastery of flavors and techniques has earned him a reputation as one of the finest Asian chefs.",
+    "recipes": [
+      {
+        "name": "General Tso's Chicken",
+        "ingredients": [
+          "2 lbs boneless chicken, cut into pieces",
+          "1/2 cup cornstarch",
+          "4 cups vegetable oil for frying",
+          "1/2 cup soy sauce",
+          "1/4 cup hoisin sauce",
+          "1/4 cup rice vinegar"
+        ],
+        "cooking_method": "1. Dredge chicken in cornstarch and fry until golden. 2. Combine soy sauce, hoisin, and vinegar. 3. Toss cooked chicken in sauce. Serve with rice.",
+        "rating": 4.9
+      },
+      {
+        "name": "Miso Soup",
+        "ingredients": [
+          "4 cups water",
+          "2 tablespoons miso paste",
+          "1/2 cup tofu, cubed",
+          "2 green onions, chopped",
+          "1 sheet of nori seaweed, torn into pieces",
+          "1 cup cooked seaweed salad (optional)"
+        ],
+        "cooking_method": "1. Bring water to a simmer. 2. Dissolve miso paste in a small amount of hot water. 3. Add tofu, green onions, and nori to the pot. 4. Serve with seaweed salad.",
+        "rating": 4.7
+      },
+      {
+        "name": "Szechuan Shrimp",
+        "ingredients": [
+          "1 lb large shrimp, peeled and deveined",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1 tablespoon ginger, minced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon Szechuan sauce"
+        ],
+        "cooking_method": "1. Dredge chicken in cornstarch and fry until golden. 2. Combine soy sauce, hoisin, and vinegar. 3. Toss cooked chicken in sauce. Serve with rice.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 4,
+    "id": "f69a695f037cd9484cecaea37ca71012",
     "name": "Chef Emily White",
     "picture": "chef_emily_white.jpg",
     "experience": "10 years",
     "number_of_recipes": 75,
-    "number_of_likes": 1800
+    "number_of_likes": 1800,
+    "bio": "Chef Emily White is a rising star in the culinary world. Her fresh and vibrant approach to cooking has won the hearts of food lovers everywhere. With 10 years of experience, she continues to inspire and innovate.",
+    "recipes": [
+      {
+        "name": "Caprese Salad",
+        "ingredients": [
+          "4 ripe tomatoes, sliced",
+          "8 oz fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves",
+          "2 tablespoons extra-virgin olive oil",
+          "2 tablespoons balsamic vinegar",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Arrange tomato and mozzarella slices on a plate. 2. Tuck basil leaves between the slices. 3. Drizzle with olive oil and balsamic vinegar. 4. Season with salt and pepper. Serve fresh.",
+        "rating": 4.6
+      },
+      {
+        "name": "Lemon Herb Roast Chicken",
+        "ingredients": [
+          "1 whole chicken (about 4 lbs)",
+          "1 lemon, halved",
+          "2 cloves garlic, minced",
+          "2 sprigs fresh rosemary",
+          "2 sprigs fresh thyme",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Rub chicken with lemon, garlic, and herbs. 3. Season with salt and pepper. 4. Roast for 1.5 to 2 hours. Let rest before carving.",
+        "rating": 4.7
+      },
+      {
+        "name": "Strawberry Shortcake",
+        "ingredients": [
+          "2 cups fresh strawberries, sliced",
+          "1/4 cup granulated sugar",
+          "2 cups all-purpose flour",
+          "1/4 cup granulated sugar",
+          "2 teaspoons baking powder",
+          "1/2 cup unsalted butter"
+        ],
+        "cooking_method": "1. Combine strawberries and sugar. Let sit for 30 minutes. 2. Mix flour, sugar, and baking powder. 3. Cut in butter. 4. Form biscuits and bake at 425°F. 5. Assemble with strawberries and whipped cream.",
+        "rating": 4.8
+      }
+    ]
   },
   {
-    "id": 5,
-    "name": "Chef Michael Johnson",
-    "picture": "chef_michael_johnson.jpg",
-    "experience": "18 years",
-    "number_of_recipes": 150,
-    "number_of_likes": 3200
+    "id": "11468ed61aee84de492a8b04158a22f9",
+    "name": "Chef Robert Walker",
+    "picture": "chef_robert_walker.jpg",
+    "experience": "22 years",
+    "number_of_recipes": 200,
+    "number_of_likes": 4500,
+    "bio": "Chef Robert Walker is a culinary virtuoso with a remarkable 22-year culinary journey. His recipes are a testament to his deep knowledge and love for diverse global cuisines, blending tradition and innovation.",
+    "recipes": [
+      {
+        "name": "Beef Wellington",
+        "ingredients": [
+          "4 beef fillet steaks",
+          "4 slices of prosciutto",
+          "2 sheets puff pastry",
+          "1 egg, beaten",
+          "2 tablespoons olive oil",
+          "1 cup mushroom duxelles",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. Season beef with salt and pepper. 2. Sear in olive oil. 3. Wrap with prosciutto and mushroom duxelles. 4. Encase in puff pastry. 5. Brush with beaten egg. 6. Bake until golden. Serve hot.",
+        "rating": 4.9
+      },
+      {
+        "name": "Sushi Rolls",
+        "ingredients": [
+          "2 cups sushi rice",
+          "4 sheets nori seaweed",
+          "1/2 lb sashimi-grade fish (e.g., tuna, salmon)",
+          "Cucumber, avocado, and other fillings",
+          "Soy sauce and wasabi for serving",
+          "Pickled ginger for garnish"
+        ],
+        "cooking_method": "1. Prepare sushi rice. 2. Lay nori on a bamboo sushi mat. 3. Spread rice and add fillings. 4. Roll tightly. 5. Slice into sushi rolls. Serve with soy sauce, wasabi, and pickled ginger.",
+        "rating": 4.7
+      },
+      {
+        "name": "Creme Brulee",
+        "ingredients": [
+          "4 egg yolks",
+          "1/2 cup granulated sugar",
+          "2 cups heavy cream",
+          "1 teaspoon vanilla extract",
+          "3 tablespoons brown sugar",
+          "Raspberries for garnish"
+        ],
+        "cooking_method": "1. Whisk egg yolks and sugar. 2. Heat cream and vanilla. 3. Temper the egg mixture with hot cream. 4. Pour into ramekins. 5. Sprinkle with brown sugar and torch until caramelized. Garnish with raspberries.",
+        "rating": 4.8
+      }
+    ]
   },
+
   {
-    "id": 6,
+    "id": "11468ed61aee84de492a8b04158a22f0",
     "name": "Chef Sarah Davis",
     "picture": "chef_sarah_davis.jpg",
     "experience": "14 years",
     "number_of_recipes": 105,
-    "number_of_likes": 2300
+    "number_of_likes": 2300,
+    "bio": "Chef Sarah Davis is a culinary storyteller who crafts every dish with a unique narrative. Her 14 years of culinary exploration have resulted in a delightful repertoire of recipes that tell tales of flavors and cultures.",
+    "recipes": [
+      {
+        "name": "Mediterranean Quinoa Salad",
+        "ingredients": [
+          "1 cup quinoa",
+          "1 1/2 cups water",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, diced",
+          "1/4 cup Kalamata olives, pitted and sliced",
+          "2 tablespoons fresh lemon juice",
+          "2 tablespoons extra-virgin olive oil",
+          "1/4 cup feta cheese, crumbled",
+          "2 tablespoons fresh parsley, chopped"
+        ],
+        "cooking_method": "1. Rinse quinoa and cook in water. 2. Let quinoa cool, then fluff with a fork. 3. Mix in tomatoes, cucumber, and olives. 4. Drizzle with lemon juice and olive oil. 5. Top with feta and parsley. Serve chilled.",
+        "rating": 4.7
+      },
+      {
+        "name": "Chicken and Broccoli Alfredo",
+        "ingredients": [
+          "8 oz fettuccine pasta",
+          "2 chicken breasts, diced",
+          "2 cups broccoli florets",
+          "2 cloves garlic, minced",
+          "1 cup heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": "1. Cook pasta and broccoli. 2. Sauté chicken and garlic. 3. Add heavy cream and Parmesan. 4. Combine with cooked pasta and broccoli. Season with salt and pepper.",
+        "rating": 4.6
+      },
+      {
+        "name": "Berry Parfait",
+        "ingredients": [
+          "1 cup Greek yogurt",
+          "1 cup mixed berries (strawberries, blueberries, raspberries)",
+          "1/4 cup granola",
+          "2 tablespoons honey",
+          "Mint leaves for garnish"
+        ],
+        "cooking_method": "1. Layer yogurt, berries, and granola in a glass. 2. Drizzle with honey. 3. Garnish with mint leaves. Serve as a healthy dessert or breakfast.",
+        "rating": 4.8
+      }
+    ]
   }
 ]
